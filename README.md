@@ -99,7 +99,8 @@ Suivez ces étapes pour configurer et exécuter l'application sur votre machine 
 
 | Écran de Connexion | Horaires de Prière | Qibla | Adhkar | Conseils |
 | :----------------: | :----------------: | :---: | :----: | :------: |
-|    ![Login](screenshots/login.png)    |    ![Home](screenshots/home.png)    | ![Qibla](screenshots/qibla.png) | ![Adhkar](screenshots/adhkar.png) | ![Conseils](screenshots/conseils.png) |
+|    ![Login](<img width="469" height="1031" alt="image" src="https://github.com/user-attachments/assets/e9be55e6-6463-4214-8ecf-4b6ad48bd664" />
+)    |    ![Home](screenshots/home.png)    | ![Qibla](screenshots/qibla.png) | ![Adhkar](screenshots/adhkar.png) | ![Conseils](screenshots/conseils.png) |
 
 *(N'oubliez pas de créer un dossier `screenshots` dans votre projet GitHub et d'y placer vos images !)*
 
@@ -118,3 +119,4 @@ Les contributions sont les bienvenues ! Si vous avez des suggestions d'améliora
 Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
 
 ---
+
