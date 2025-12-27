@@ -100,10 +100,10 @@ Suivez ces étapes pour configurer et exécuter l'application sur votre machine 
 | Écran de Connexion | Horaires de Prière | Adhkar | Conseils |
 | :----------------: | :----------------: | :----: | :------: |
 |    <img width="469" height="1031" alt="image" src="https://github.com/user-attachments/assets/e9be55e6-6463-4214-8ecf-4b6ad48bd664" />
-)    |    <img width="485" height="1035" alt="image" src="https://github.com/user-attachments/assets/edc3924b-6bf4-44fd-ad42-522ef46d6d1e" />
+|    <img width="485" height="1035" alt="image" src="https://github.com/user-attachments/assets/edc3924b-6bf4-44fd-ad42-522ef46d6d1e" />
      | <img width="491" height="1025" alt="image" src="https://github.com/user-attachments/assets/38889761-5cad-487a-bee4-7237c4fb79ef" />
  | <img width="482" height="1033" alt="image" src="https://github.com/user-attachments/assets/141bb54d-bff9-4bcf-a442-537aeb58b9c2" />
- |
+ 
 
 *(N'oubliez pas de créer un dossier `screenshots` dans votre projet GitHub et d'y placer vos images !)*
 
@@ -122,5 +122,6 @@ Les contributions sont les bienvenues ! Si vous avez des suggestions d'améliora
 Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
 
 ---
+
 
 
