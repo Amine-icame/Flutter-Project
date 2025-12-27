@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "16229094144",
+    "project_id": "athan-app-cd166",
+    "storage_bucket": "athan-app-cd166.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16229094144:android:658a3c363398817ead19e5",
+        "android_client_info": {
+          "package_name": "com.example.muslim_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUG5pSbBkQ3RaMqbc2IJmYy4VYei45VOM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
