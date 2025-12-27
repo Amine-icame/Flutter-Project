@@ -95,7 +95,6 @@ Suivez ces étapes pour configurer et exécuter l'application sur votre machine 
     Si l'application ne démarre pas sur la page de Login, faites un "Hot Restart" (`R` dans le terminal).
 
 ## Screenshots
-*(Ajoutez ici vos captures d'écran de l'application : Écran de connexion, Horaires de prière, Qibla, Adhkar, Conseils)*
 
 | Écran de Connexion | Horaires de Prière | Adhkar | Conseils |
 | :----------------: | :----------------: | :----: | :------: |
@@ -104,8 +103,6 @@ Suivez ces étapes pour configurer et exécuter l'application sur votre machine 
 | <img width="491" height="1025" alt="image" src="https://github.com/user-attachments/assets/38889761-5cad-487a-bee4-7237c4fb79ef" />
 | <img width="482" height="1033" alt="image" src="https://github.com/user-attachments/assets/141bb54d-bff9-4bcf-a442-537aeb58b9c2" />
  
-
-*(N'oubliez pas de créer un dossier `screenshots` dans votre projet GitHub et d'y placer vos images !)*
 
 ## Utilisation
 
@@ -122,6 +119,7 @@ Les contributions sont les bienvenues ! Si vous avez des suggestions d'améliora
 Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
 
 ---
+
 
 
 
